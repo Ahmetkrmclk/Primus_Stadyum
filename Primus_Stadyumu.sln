@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primus_Stadyumu", "Primus_Stadyumu\Primus_Stadyumu.csproj", "{3E7058B7-6A6E-4AB5-9BCC-25F20C5C979E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Primus_Setup", "Primus_Setup\Primus_Setup.vdproj", "{F879E009-066B-43B6-8BC8-D06FEDAF0CB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E7058B7-6A6E-4AB5-9BCC-25F20C5C979E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7058B7-6A6E-4AB5-9BCC-25F20C5C979E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7058B7-6A6E-4AB5-9BCC-25F20C5C979E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7058B7-6A6E-4AB5-9BCC-25F20C5C979E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F879E009-066B-43B6-8BC8-D06FEDAF0CB7}.Debug|Any CPU.ActiveCfg = Debug
+		{F879E009-066B-43B6-8BC8-D06FEDAF0CB7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1A02E60-7F51-4B25-A28F-F99547AD1616}
+	EndGlobalSection
+EndGlobal
